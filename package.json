@@ -1,0 +1,7 @@
+{
+  "name": "on-the-brink",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Историческая интерактивная новелла о холодной войне",
+  "scripts": { "test": "node --test tests/engine.test.cjs", "start": "node server.cjs", "docs": "node scripts/export-scenario.cjs" }
+}

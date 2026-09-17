@@ -1,0 +1,645 @@
+{
+  "war_stalemate": {
+    "version": 2,
+    "side": "ussr",
+    "decisions": [
+      {
+        "choice": 1
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 1,
+        "warChoice": 1
+      }
+    ],
+    "phase": "ending"
+  },
+  "cooperation": {
+    "version": 2,
+    "side": "usa",
+    "decisions": [
+      {
+        "choice": 0
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      }
+    ],
+    "phase": "ending"
+  },
+  "commonwealth": {
+    "version": 2,
+    "side": "ussr",
+    "decisions": [
+      {
+        "choice": 0
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 2
+      }
+    ],
+    "phase": "ending"
+  },
+  "fragile": {
+    "version": 2,
+    "side": "ussr",
+    "decisions": [
+      {
+        "choice": 0
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 1
+      }
+    ],
+    "phase": "ending"
+  },
+  "balance": {
+    "version": 2,
+    "side": "usa",
+    "decisions": [
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 1
+      }
+    ],
+    "phase": "ending"
+  },
+  "war_defeat": {
+    "version": 2,
+    "side": "ussr",
+    "decisions": [
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 1,
+        "warChoice": 1
+      }
+    ],
+    "phase": "ending"
+  },
+  "nuclear": {
+    "version": 2,
+    "side": "ussr",
+    "decisions": [
+      {
+        "choice": 0
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 1,
+        "warChoice": 2
+      }
+    ],
+    "phase": "ending"
+  },
+  "union_survives": {
+    "version": 2,
+    "side": "ussr",
+    "decisions": [
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 0
+      }
+    ],
+    "phase": "ending"
+  },
+  "exhaustion": {
+    "version": 2,
+    "side": "usa",
+    "decisions": [
+      {
+        "choice": 2
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 2
+      }
+    ],
+    "phase": "ending"
+  },
+  "war_victory": {
+    "version": 2,
+    "side": "usa",
+    "decisions": [
+      {
+        "choice": 2
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 1,
+        "warChoice": 1
+      }
+    ],
+    "phase": "ending"
+  },
+  "american_victory": {
+    "version": 2,
+    "side": "usa",
+    "decisions": [
+      {
+        "choice": 2
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 0
+      }
+    ],
+    "phase": "ending"
+  },
+  "soviet_victory": {
+    "version": 2,
+    "side": "ussr",
+    "decisions": [
+      {
+        "choice": 0
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 2
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 0
+      },
+      {
+        "choice": 1
+      },
+      {
+        "choice": 0
+      }
+    ],
+    "phase": "ending"
+  }
+}

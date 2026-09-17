@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" fill="none">
+ <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#a0b6b7" stroke-opacity=".10"/></pattern><radialGradient id="glow"><stop stop-color="#a18b6c" stop-opacity=".18"/><stop offset="1" stop-color="#17262d" stop-opacity="0"/></radialGradient></defs>
+ <path fill="#19272d" d="M0 0h1000v560H0z"/><path fill="url(#grid)" d="M0 0h1000v560H0z"/><ellipse cx="520" cy="290" rx="420" ry="255" fill="url(#glow)"/>
+ <g stroke="#748b8c" stroke-width="1.2" fill="#52676a" fill-opacity=".32" stroke-linejoin="round">
+  <path d="m93 132 46-32 45 5 26-31 31 18 33-8 32 21 18 35-34 22-11 34-32 14-10 42-28 9-18-23-22-3-24-30-30-3-21-35-25-6z"/>
+  <path d="m235 250 19 12 11 27 26 10 6 18-20-6-21-23-17-17z"/>
+  <path d="m287 311 36-10 40 21 29 28-11 35-21 21-13 48-24 35-20-37-1-36-24-34 1-35z"/>
+  <path d="m308 62 40-14 35 14-14 52-33 28-26-24z"/>
+  <path d="m447 178 16-23 27-4 5-30 28-19 18 12-8 35 32 5 13 26-8 25-43 10-8 16-28-7-15-19-24 2z"/>
+  <path d="m474 234 45-8 38 14 22 38-10 36-25 15-11 46-20 25-20-24-8-43-24-26-10-39z"/>
+  <path d="m550 146 40-34 35 2 26-23 48 6 41-22 42 20 49-6 32 26 44-6 24 27-20 25-45 1-19 29-36 2-26 31-28-3-13 27-33 3-17 37-25-23-17-43-30 1-22-20-39-4-16-23-12-15z"/>
+  <path d="m564 227 36 1 23 27-20 22-27-8zM689 249l26 9 8 28 26 16 1 35-23-14-18-33zM793 209l7 30-9 26-10-5 7-23zM748 354l35 8 30-2 12 15-41 1-38-11z"/>
+  <path d="m784 405 33-23 40-1 20 21 11 34-23 17-31-9-24 7-31-18zM919 445l11 14-10 22-10 2z"/>
+ </g>
+ <g fill="none" stroke-width="1"><ellipse cx="508" cy="275" rx="410" ry="189" stroke="#b0a68e" stroke-opacity=".19"/><path d="M170 245Q420-95 660 173" stroke="#d69370" stroke-dasharray="5 7" opacity=".65"/><path d="M170 245Q430 451 660 173" stroke="#8daeb7" stroke-dasharray="5 7" opacity=".45"/><path d="M501 87v355M86 280h820" stroke="#abb3a4" stroke-opacity=".15"/></g>
+ <g stroke="#dab492"><circle cx="170" cy="245" r="24" opacity=".22"/><circle cx="170" cy="245" r="13" opacity=".5"/><circle cx="660" cy="173" r="24" opacity=".22"/><circle cx="660" cy="173" r="13" opacity=".5"/></g>
+ <g fill="#e4b68e"><circle cx="170" cy="245" r="4"/><circle cx="660" cy="173" r="4"/></g>
+ <g font-family="monospace" font-size="11" letter-spacing="3" fill="#c0c5b8"><text x="105" y="288">ВАШИНГТОН</text><text x="621" y="216">МОСКВА</text></g>
+ <g stroke="#99aaa6" opacity=".45"><path d="M30 55V30h25M945 30h25v25M30 505v25h25M945 530h25v-25"/></g>
+</svg>

@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#151c20">
+  <title>На грани — интерактивная модель холодной войны</title>
+  <link rel="icon" href="assets/emblem.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="data.js" defer></script>
+  <script src="campaign-data.js" defer></script>
+  <script src="branches.js" defer></script>
+  <script src="engine.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#" id="home-link" aria-label="На грани — главное меню"><span class="brand-symbol">◈</span> НА ГРАНИ<span class="brand-sub">ИСТОРИЧЕСКИЙ СИМУЛЯТОР</span></a>
+    <nav aria-label="Основная навигация"><button id="archive-button">Архив событий <span>↗</span></button><button id="guide-button">Как играть <span>?</span></button></nav>
+  </header>
+  <main id="app" tabindex="-1"></main>
+  <footer><span>1945 — 1991 <i> / </i> МИР МЕЖДУ ДВУМЯ ПОЛЮСАМИ</span><span>Исторические факты. Ваши решения.</span></footer>
+  <dialog id="modal" aria-labelledby="modal-title"><div class="modal-top"><span class="eyebrow">ОТКРЫТЫЙ АРХИВ</span><button id="close-modal" class="icon-button" aria-label="Закрыть окно">×</button></div><div id="modal-content"></div></dialog>
+  <p id="notice" class="toast" role="status" hidden></p>
+  <noscript><p class="noscript">Для игры включите JavaScript в настройках браузера.</p></noscript>
+</body>
+</html>
