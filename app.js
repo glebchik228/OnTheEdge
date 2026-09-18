@@ -49,8 +49,10 @@
   }
   function fiscalPreview(c) {
     if(state.index === D.episodes.length-1 || E.availability(state,c)) return '';
-    const next = D.episodes[state.index+1], p = E.preview(state,c);
-    const idx = E.current(state).choices[state.side].indexOf(c);
+    const next = D.episodes[state.index+1];
+    // Условная сцена создаётся заново при resolve: сравниваем содержание выбора,
+    // а не ссылки на объекты из двух разных экземпляров сцены.
+    const idx = E.current(state).choices[state.side].findIndex(choice => choice.title === c.title);
     const after = E.choose(state,idx), budget = E.budget(after,next), before = E.budget(state,next);
     if(budget.net === before.net) return '';
     return `<span class="fiscal-preview">Регулярный бюджет в следующей главе: ${sign(budget.net)} (${sign(budget.net-before.net)} к прежнему курсу). Уже учитывает поступления и содержание.</span>`;
